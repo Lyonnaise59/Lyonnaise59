@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lyonnaise59
-- 👀 I’m interested in photograph..
+- 👀 I’m interested in photography..
 - 🌱 I’m currently learning Fortran90 and Python for data analysis
 - 📫 How to reach me —— ins：_rhinesthesia
 
